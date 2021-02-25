@@ -11406,3 +11406,7 @@ font-weight: 500;
 .home-botoes{
   height: 183px;
 }
+
+#btnAddMonitor{
+  margin-bottom: 9rem;
+}
